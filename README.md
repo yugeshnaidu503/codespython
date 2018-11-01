@@ -1,3 +1,5 @@
 # codespython
 it is sample python codes
-def f()
+def f(a):
+a=100
+print(a)
